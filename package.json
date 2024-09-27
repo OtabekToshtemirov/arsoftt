@@ -2,6 +2,7 @@
   "name": "arsoftt",
   "version": "0.1.0",
   "private": true,
+  "author": "Otabek Toshtemirov",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
